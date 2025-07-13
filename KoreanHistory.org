@@ -1,0 +1,51 @@
+* 시대 또는 국가
+
+- 구석기
+- 신석기
+- 청동기
+- 철기
+- [[file:GoJoSeon.org][고조선]]
+- 옥저
+- 동예
+- 마한
+- 진한
+- 변한
+- [[Gaya.org][가야]]
+- 부여
+- [[file:GoGuYeo.org][고구려]]
+- [[file:BaekJe.org][백제]]
+- [[file:SilLa.org][신라]]
+- 후고구려
+- 후백제
+- [[file:BalHae.org][발해]]
+- [[file:GoRyeo.org][고려]]
+- [[file:JoSeon.org][조선]]
+- [[KoreanEmpire.org][대한제국]]
+- [[file:JapaneseRule.org][일제강점기]]
+- [[file:RepublicOfKorea.org][대한민국]] aka [[file:SouthKorea.org][남한]]
+- [[file:NorthKorea.org][북한]]
+
+* 타국
+
+- [[file:China.org][중국]]
+- [[file:UnitedStates.org][미국]]
+- 영국
+- 네덜란드
+- 베트남
+- 인도
+- 프랑스
+- 독일
+- 러시아
+  
+* 지역
+
+- [[file:JeJu.org][제주]]
+
+* 사건
+
+- [[file:KoreanWar.org][한국전쟁]]
+
+* 기타
+
+- [[file:Book.org][책]]
+- [[file:KoreanHistoryProficiencyTest.org][한국사능력검정시험]]
