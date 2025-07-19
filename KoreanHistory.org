@@ -27,6 +27,7 @@
 
 * 타국
 
+- [[file:Japan.org][일본]]
 - [[file:China.org][중국]]
 - [[file:UnitedStates.org][미국]]
 - 영국
